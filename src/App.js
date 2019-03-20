@@ -5,7 +5,7 @@ import Form from "./Form";
 class App extends Component {
   state = {
     characters: [
-      /* {
+      {
         name: "Charlie",
         job: "Janitor"
       },
@@ -20,7 +20,7 @@ class App extends Component {
       {
         name: "Dennis",
         job: "Bartender"
-      } */
+      }
     ]
   };
   render() {
